@@ -2,6 +2,11 @@ h1 {
     color:red;
 }
 
+body {
+    width: 60%;
+    text-align: center;
+}
+
 p {
     background-color: grey;
 }
